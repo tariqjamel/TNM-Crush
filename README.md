@@ -30,7 +30,7 @@ Instructions:
     Build and Run:
         Example commands to build and run the game.
 
-//terminal 
+terminal 
         g++ main.cpp -o TNMCrush -lsfml-graphics -lsfml-window -lsfml-system
         ./TNMCrush
 
