@@ -16,7 +16,8 @@ Instructions:
         Score tracking for competitive play.
 
     Getting Started:
-        Ensure you have SFML installed.
+        Ensure you have SFML installed.!
+
         Clone the repository.
         Build and run the game.
 
@@ -45,3 +46,5 @@ Instructions:
         (Include screenshots of your game here if available)
 
 Have fun playing TNM Crush!
+
+[TNM_bg](https://github.com/tariqjamel/TNM-Crush/assets/142381643/7e9d12f8-b2f7-4b11-9e4a-efaf532af32d)
