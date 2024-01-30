@@ -39,11 +39,7 @@ Instructions:
     Contributing:
         Contributions are welcome! Feel free to report bugs or suggest improvements.
 
-    License:
-        This project is licensed under the MIT License.
 
-    Screenshots:
-        (Include screenshots of your game here if available)
 
 Have fun playing TNM Crush!
 
